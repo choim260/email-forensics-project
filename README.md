@@ -30,7 +30,10 @@ Due to GitHub file size limits, the full dataset is not included in this reposit
 - Email headers contain useful forensic data
 - SPF, DKIM, and DMARC help verify emails
 - Automation allows large-scale analysis
-
+  
+## Results
+A sample result file (sample_results.csv) is included.  
+The full results are large and not included due to GitHub size limitations.
 ## Limitations
 - Not all datasets include authentication fields
 - Some emails cannot be fully verified
