@@ -17,6 +17,16 @@ https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset
 
 Due to GitHub file size limits, the full dataset is not included in this repository.
 
+## Step-by-Step Guide
+
+1. Download the dataset from the Kaggle link
+2. Place the CSV file in the project folder
+3. Open terminal
+4. Navigate to the project directory
+5. Run the script:
+   python3 analyze_headers.py
+6. Check the output file (results.csv)
+
 ## How to Run
 
 1. Open terminal
